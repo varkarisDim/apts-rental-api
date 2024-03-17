@@ -1,0 +1,172 @@
+[
+    {
+        "city": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405,
+        "rooms": 2,
+        "country": "Germany",
+        "urbanId": "BE69780",
+        "isFavourite": true,
+        "userId": 1
+    },
+    {
+        "city": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405,
+        "rooms": 9,
+        "country": "Germany",
+        "urbanId": "BE14780",
+        "isFavourite": false,
+        "userId": 2
+    },
+    {
+        "city": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405,
+        "rooms": 5,
+        "country": "Germany",
+        "urbanId": "BE98780",
+        "isFavourite": true,
+        "userId": 2
+    },
+    {
+        "city": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405,
+        "rooms": 2,
+        "country": "Germany",
+        "urbanId": "BE88780",
+        "isFavourite": true,
+        "userId": 4
+    },
+    {
+        "city": "Paris",
+        "lat": 48.8567,
+        "lng": 2.3522,
+        "rooms": 4,
+        "country": "France",
+        "urbanId": "PA69703",
+        "isFavourite": false,
+        "userId": 4
+    },
+    {
+        "city": "Stuttgart",
+        "lat": 48.7775,
+        "lng": 9.18,
+        "rooms": 1,
+        "country": "Germany",
+        "urbanId": "ST30257",
+        "isFavourite": false,
+        "userId": 2
+    },
+    {
+        "city": "Geneva",
+        "lat": 47.3744,
+        "lng": 8.5411,
+        "rooms": 3,
+        "country": "Switzerland",
+        "urbanId": "GE01247",
+        "isFavourite": false,
+        "userId": 4
+    },
+    {
+        "city": "Munich",
+        "lat": 48.1375,
+        "lng": 11.575,
+        "rooms": 2,
+        "country": "Germany",
+        "urbanId": "MU47981",
+        "isFavourite": false,
+        "userId": 1
+    },
+    {
+        "city": "Rome",
+        "lat": 41.8931,
+        "lng": 12.4828,
+        "rooms": 1,
+        "country": "Italy",
+        "urbanId": "RO34793",
+        "isFavourite": true,
+        "userId": 3
+    },
+    {
+        "city": "Athens",
+        "lat": 37.9842,
+        "lng": 23.7281,
+        "rooms": 3,
+        "country": "Greece",
+        "urbanId": "AT68712",
+        "isFavourite": false,
+        "userId": 3
+    },
+    {
+        "city": "Thessaloniki",
+        "lat": 40.6403,
+        "lng": 22.9347,
+        "rooms": 5,
+        "country": "Greece",
+        "urbanId": "TH16798",
+        "isFavourite": true,
+        "userId": 1
+    },
+    {
+        "city": "Gent",
+        "lat": 51.0536,
+        "lng": 4.7253,
+        "rooms": 5,
+        "country": "Belgium",
+        "urbanId": "GE91476",
+        "isFavourite": false,
+        "userId": 4
+    },
+    {
+        "city": "Antwerp",
+        "lat": 51.2178,
+        "lng": 4.4003,
+        "rooms": 4,
+        "country": "Belgium",
+        "urbanId": "AN60723",
+        "isFavourite": true,
+        "userId": 1
+    },
+    {
+        "city": "Brussels",
+        "lat": 50.8467,
+        "lng": 4.3525,
+        "rooms": 5,
+        "country": "Belgium",
+        "urbanId": "BR79357",
+        "isFavourite": false,
+        "userId": 4
+    },
+    {
+        "city": "Amsterdam",
+        "lat": 52.3728,
+        "lng": 4.8936,
+        "rooms": 2,
+        "country": "Netherlands",
+        "urbanId": "AM98334",
+        "isFavourite": false,
+        "userId": 2
+    },
+    {
+        "city": "Berlin",
+        "lat": 52.52,
+        "lng": 13.405,
+        "rooms": 2,
+        "country": "Germany",
+        "urbanId": "BE88980",
+        "isFavourite": false,
+        "userId": 4
+    },
+    {
+        "city": "Rotterdam",
+        "lat": 51.9167,
+        "lng": 4.5,
+        "rooms": 6,
+        "country": "Netherlands",
+        "urbanId": "RO58047",
+        "isFavourite": true,
+        "userId": 1
+    }
+]

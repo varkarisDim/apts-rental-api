@@ -1,0 +1,26 @@
+[
+    {
+        "email": "wamadeus@gmail.io",
+        "password": "1791",
+        "firstName": "Wolfgang",
+        "lastName": "Mozart"
+    },
+    {
+        "email": "lbeethoven@hotmail.io",
+        "password": "1827",
+        "firstName": "Ludwig",
+        "lastName": "Beethoven"
+    },
+    {
+        "email": "jbach@github.io",
+        "password": "1750",
+        "firstName": "Johann",
+        "lastName": "Bach"
+    },
+    {
+        "email": "jbrahms@yahoo.io",
+        "password": "1897",
+        "firstName": "Johannes",
+        "lastName": "Brahms"
+    }
+]
